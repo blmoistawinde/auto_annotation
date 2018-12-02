@@ -1,6 +1,6 @@
 ﻿# ﻿﻿﻿文本自动注释
 
-我的博客 https://blog.csdn.net/blmoistawinde/article/details/81534496 中提到内容的具体实现。
+我的博客 https://blog.csdn.net/blmoistawinde/article/details/81780401 中提到内容的具体实现。
 
 使用方法：
 
